@@ -1,2 +1,1 @@
-# Programminglab
-Programminglab
+# This repository contains Lab programmings
